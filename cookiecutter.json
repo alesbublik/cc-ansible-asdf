@@ -1,0 +1,6 @@
+{
+	"name": "asdf",
+    "_copy_without_render": [
+        "playbook.yml"
+    ]
+}
